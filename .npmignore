@@ -1,0 +1,11 @@
+/.updates
+/.vscode
+/coverage
+/test
+/src
+.prettierrc.json
+.eslintrc.json
+.gitignore
+bitbucket-pipelines.yml
+tsconfig.json
+vitest.config.ts
